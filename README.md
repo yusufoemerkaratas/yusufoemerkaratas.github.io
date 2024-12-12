@@ -2,7 +2,7 @@
 
 Ben bir **Bilgisayar Mühendisliği** öğrencisiyim ve özellikle **Java**, **C**, **XML** ve **JSON** dillerinde yazılım geliştirme üzerine çalışıyorum. Açık kaynak projelerine katkıda bulunmayı seviyorum ve yazılım geliştirme becerilerimi sürekli olarak geliştiriyorum.
 
-![Profile Banner](https://via.placeholder.com/1200x400/007bff/ffffff?text=Yusuf+Ömer+Karataş+GitHub+Profil+Banner)
+
 
 ## 🔧 Becerilerim
 - **Java** (OOP, Spring Framework)
