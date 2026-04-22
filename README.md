@@ -1,29 +1,30 @@
-# 👋 Merhaba, Ben Yusuf Ömer Karataş
+# Yusuf Ömer Karataş
 
-Ben bir **Bilgisayar Mühendisliği** öğrencisiyim ve özellikle **Java**, **C**, **XML** ve **JSON** dillerinde yazılım geliştirme üzerine çalışıyorum. Açık kaynak projelerine katkıda bulunmayı seviyorum ve yazılım geliştirme becerilerimi sürekli olarak geliştiriyorum.
+**Computer Science Student @ THWS **
 
+📍 Würzburg, Germany
 
+## 👨‍💻 About
 
-## 🔧 Becerilerim
-- **Java** (OOP, Spring Framework)
-- **C** (Veritabanı Yönetimi ve Sistem Programlama)
-- **XML** (Veri Yapıları ve Veri Analizi)
-- **JSON** (Veri Yapıları ve Veri İşleme)
-- **Git & GitHub** (Versiyon Kontrol)
-- **SQL** (Veritabanı İşlemleri)
+I am a Computer Science student at the Technical University of Applied Sciences Würzburg-Schweinfurt (THWS). My core focus is on building scalable backend architectures, designing RESTful APIs, and implementing robust CI/CD pipelines. 
 
-## 📚 Eğitim
-- **Bilgisayar Mühendisliği**,Thws (2022 - Devam Ediyor)
+## 🛠️ Tech Stack & Skills
 
-## 📍 Nerelerdeyim?
-- **Konum**: Almanya, Wurzburg
-- **Twitter**: [@yusufomerkaratas](https://twitter.com/yusufomerkaratas)
-- **LinkedIn**: [Yusuf Ömer Karataş](https://www.linkedin.com/in/yusufomerkaratas/)
-- **Web**: [yusufomerkaratas.com](https://yusufomerkaratas.com) *(Eğer varsa kişisel web siteniz)*
+* **Languages:** Python, Java, C, SQL
+* **Backend & APIs:** FastAPI, Spring Framework, RESTful Architecture
+* **Databases & ORM:** PostgreSQL, SQLAlchemy
+* **DevOps & CI/CD:** Docker, Docker Compose, GitHub Actions, GitLab CI
+* **Data Structures & Formats:** JSON, XML
+* **Version Control:** Git, GitHub
 
-## 💬 Benimle İletişime Geçin
-Açık kaynak projelere katkıda bulunmak isterseniz, çekme istekleri gönderebilir veya projelerim hakkında yorumlar bırakabilirsiniz!
+## 🎓 Education
+
+* **B.Sc. Computer Science** *Technical University of Applied Sciences Würzburg-Schweinfurt (THWS)* | 2023 – Present
+
+## 🌐 Contact & Links
+
+* **LinkedIn:** [Yusuf Ömer Karataş](https://www.linkedin.com/in/yusufomerkaratas/)
+
 
 ---
-
-
+*Open to collaboration on backend architecture, CI/CD automation, and data pipeline projects.*
