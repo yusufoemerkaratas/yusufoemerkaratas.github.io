@@ -23,7 +23,7 @@ I am a Computer Science student at the Technical University of Applied Sciences 
 
 ## 🌐 Contact & Links
 
-* **LinkedIn:** [Yusuf Ömer Karataş](https://www.linkedin.com/in/yusufomerkaratas/)
+* **LinkedIn:** [Yusuf Ömer Karataş](https://de.linkedin.com/in/yusuf-%C3%B6mer-karatas-330952219)
 
 
 ---
